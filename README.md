@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Daz7
+- 👀 I’m an experienced game developer
+- 🌱 I’m currently learning C#, and i'll start with C++ as soon as i finish C#
+- 💞️ I’m trying to help peaple as much as possible
+- 📫 How to reach me:
+-   1. Discord: https://discord.gg/btcKjvCfZE
+-   2. YouTube: https://www.youtube.com/channel/UCw68p8cg8cNj2KG7IhtKtxQ/
+-   just that, it's enough
